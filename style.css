@@ -65,3 +65,11 @@ img{
     padding: 1rem;
     border-radius: 1rem;
     }
+
+    #d{
+        padding-top: 70px;
+        font-size: 35px;
+        color: brown;
+        text-decoration: underline brown dotted 1px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
